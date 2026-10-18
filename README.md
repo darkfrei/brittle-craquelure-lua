@@ -6,6 +6,8 @@ computed with fracture mechanics instead of drawn with a procedural pattern.
 Written in Lua for LuaJIT, with a viewer for LÖVE 11.4+.
 The solver module `craquelure.lua` has no LÖVE dependency.
 
+![Final states of the eight presets, 256 x 256 grid](collage.png)
+
 ## Why a paint layer cracks
 
 A paint layer sticks to its support (canvas, wood, ceramic). Over time it wants to become
